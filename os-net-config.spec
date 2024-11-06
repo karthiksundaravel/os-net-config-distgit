@@ -109,6 +109,7 @@ rm -fr doc/build/html/.{doctrees,buildinfo}
 %{_bindir}/os-net-config-dcb
 %{_bindir}/os-net-config-sriov
 %{_bindir}/os-net-config-sriov-bind
+%{_bindir}/os-net-config-bind
 %{python3_sitelib}/os_net_config*
 
 %changelog
